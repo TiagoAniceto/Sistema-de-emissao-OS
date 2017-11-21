@@ -28,7 +28,7 @@ public class TelaCliente extends javax.swing.JInternalFrame {
         initComponents();
         conexao = ModuloConexao.conector();
     }
-
+    // 
     // método para adicionar clientes
     private void adicionar() {
         // está é a sintax para a inserção de dados e em uma tabela
